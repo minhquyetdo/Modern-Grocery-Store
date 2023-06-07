@@ -1,50 +1,50 @@
 What does this database do?
-This database enables efficient and organized management of key aspects within a grocery store:
-	1	Item Management:
+	This database enables efficient and organized management of key aspects within a grocery store:
+1	Item Management:
 	◦	Tracks item names, descriptions, quantities, prices, brands, categories, and units.
 	◦	Facilitates easy search, update, and retrieval of item information.
 	◦	Provides a clear overview of stock availability and last updated prices.
-	2	Sales Transaction Management:
+2	Sales Transaction Management:
 	◦	Captures sell receipts, including customer IDs, sold items, quantities, prices, and billing details.
 	◦	Enables tracking of sales by date, location, and payment methods.
 	◦	Facilitates analysis of sales performance and customer buying patterns.
-	3	Employee Management:
+3	Employee Management:
 	◦	Stores employee details such as names, phone numbers, roles, and privileges.
 	◦	Enables effective management of employee information and assignments.
 	◦	Provides access control and ensures data security.
-	4	Supplier Management:
+4	Supplier Management:
 	◦	Manages supplier information, including names, addresses, contact persons, and contact numbers.
 	◦	Facilitates effective communication and collaboration with suppliers.
 	◦	Enables tracking of supplier details for efficient inventory replenishment.
-	5	Purchase Record Management:
+5	Purchase Record Management:
 	◦	Records buy receipts, capturing item IDs, quantities, prices, employee-placed orders, and order dates.
 	◦	Tracks received quantities and dates to manage stock levels accurately.
 	◦	Ensures proper documentation and streamlines the purchasing process.
 How does this database work well?
-This database design offers several advantages and features that contribute to its effectiveness:
-	1	Data Organization and Efficiency:
+	This database design offers several advantages and features that contribute to its effectiveness:
+1	Data Organization and Efficiency:
 	◦	The relational structure organizes data into tables, ensuring data integrity and reducing redundancy.
 	◦	Indexes on frequently queried columns enhance data retrieval performance.
 	◦	Relationships between tables facilitate data consistency and enable seamless information flow.
-	2	Normalization and Third Normal Form (3NF):
+2	Normalization and Third Normal Form (3NF):
 	◦	The database design follows the principles of normalization, eliminating data duplication and maintaining data consistency.
 	◦	This ensures efficient storage and retrieval, minimizes update anomalies, and reduces data maintenance efforts.
-	3	Flexibility and Scalability:
+3	Flexibility and Scalability:
 	◦	The modular structure allows easy adaptation and expansion as the grocery store grows.
 	◦	Additional functionalities or attributes can be incorporated without disrupting the existing database structure.
-	4	Performance Optimization:
+4	Performance Optimization:
 	◦	Indexing, appropriate data types, and query optimization techniques enhance database performance and responsiveness.
 	◦	Well-structured queries and efficient algorithms minimize processing time, ensuring timely access to information.
 Why does it fulfill a grocery store's requirements?
-This database is specifically designed to meet the unique requirements of a modern grocery store:
-	1	Efficient Inventory Management:
+	This database is specifically designed to meet the unique requirements of a modern grocery store:
+1	Efficient Inventory Management:
 	◦	Accurate and up-to-date information on item quantities and prices allows effective inventory control and restocking.
 	◦	Tracking last updated prices helps in maintaining competitive pricing and managing profit margins.
-	2	Streamlined Sales and Billing:
+2	Streamlined Sales and Billing:
 	◦	Capturing detailed sales transactions enables efficient billing and revenue tracking.
 	◦	Analysis of sales data facilitates informed decision-making, such as identifying popular items or devising promotions.
-	3	Employee Empowerment and Management:
+3	Employee Empowerment and Management:
 	◦	Centralized employee information and privilege management streamline operations and ensure appropriate access control.
 	◦	Employee role assignments enable effective task delegation and monitoring.
-	4	Supplier Collaboration and Inventory Replenishment:
+4	Supplier Collaboration and Inventory Replenishment:
 	◦	Supplier details and purchase records support efficient collaboration and enable timely replenishment of inventory.
