@@ -3,6 +3,9 @@
 A comprehensive **database management system** designed specifically for modern grocery stores like 7-Eleven and GS25. \
 This database serves as a centralized repository for managing various aspects of the store's operations, including **item inventory**, **sales transactions**, **employee information**, **supplier details**, and **purchase records**.
 ## Overview
+
+[grocery-store.drawio.pdf](https://github.com/minhquyetdo/Modern-Grocery-Store/files/11712672/grocery-store.drawio.pdf)
+
 **Technical features** in this database:
 |Features| Description |
 |:------|-----------:|
