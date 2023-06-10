@@ -4,6 +4,9 @@ A comprehensive **database management system** designed specifically for modern 
 This database serves as a centralized repository for managing various aspects of the store's operations, including **item inventory**, **sales transactions**, **employee information**, **supplier details**, and **purchase records**.
 ## Overview
 
+![grocery-store](https://github.com/minhquyetdo/Modern-Grocery-Store/assets/135207786/fe140af9-c3bc-4d04-a0af-58418377b1fc)
+
+
 **Technical features** in this database:
 |Features| Description |
 |:------|-----------:|
